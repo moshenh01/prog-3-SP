@@ -39,7 +39,7 @@ int main(){
    for (int i = 0;i < 49 ;i++) {
        printf("%d,",arr[i]);
    }
-   printf("%d",arr[49]);
+   printf("%d\n",arr[49]);
 
     return 0;
 }
